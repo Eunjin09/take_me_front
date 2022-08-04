@@ -1,5 +1,5 @@
 # <img width="30px" src="https://user-images.githubusercontent.com/77655749/182784520-0eaf9f85-fbca-4c81-96ae-0471c3df3bc5.png"/>  Tikkeeul
-<img width="980px" src="https://user-images.githubusercontent.com/77655749/182780783-e231616d-9b8e-431c-8226-01f031cee103.png"/>
+<a href="https://www.tikkeeul.com/"><img width="980px" src="https://user-images.githubusercontent.com/77655749/182780783-e231616d-9b8e-431c-8226-01f031cee103.png"/></a>
 
 <br> 
 
@@ -112,27 +112,13 @@
 
 <br>
 
-## 📢  서비스 주요기능
-
-### 🎵 함께 뛰고 싶은 사람들을 위한 그룹 러닝 매칭 플랫폼
-
-#### 🔐 카카오/네이버 소셜 로그인
-
-- 별도의 정보 입력 없이 간편하게 로그인할 수 있습니다. (1줄 ~ 2줄)
+## 📢  티끌 서비스 주요기능
 
 #### 🏃‍♀ 시간 제한 있는 찬반 투표 & 채팅
 
 - 수정
 
 #### ✔ 아낀 내역 기록(티끌) & 목표 설정(태산)
-
-- 수정
-
-#### 🗾 자동완성
-
-- 수정
-
-#### 📱 통계
 
 - 수정
 
@@ -144,9 +130,21 @@
 
 - 수정
 
+#### 📱 통계
+
+- 수정
+
+#### 🗾 자동완성
+
+- 수정
+
 #### 📱 무한스크롤
 
 - 수정
+
+#### 🔐 카카오/네이버 소셜 로그인
+
+- 별도의 정보 입력 없이 간편하게 로그인할 수 있습니다. (1줄 ~ 2줄)
 
 #### 📱 회원가입 / 로그인
 
@@ -156,7 +154,7 @@
 
 ## ✨ 아키텍쳐
 
-![stack_diagram](https://ifh.cc/g/7RDWVT.png)
+![stack_diagram](https://user-images.githubusercontent.com/77655749/182791653-5512b1d1-98f8-4f2f-865d-5fb62b3553c8.png)
 
 ## 🔨 기술스택
 
