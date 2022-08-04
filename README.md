@@ -1,6 +1,7 @@
 # 함께 뛰는 즐거움 🏃‍♀️🏃이RUN 저RUN💨💨
 
-![banner](https://user-images.githubusercontent.com/100745412/170878912-8c879a79-a77b-49db-8ba5-72882d56bdea.png)
+![banner](https://user-images.githubusercontent.com/77655749/182779691-d67d107a-7954-45e9-87a4-5aa80d3f34bd.png)
+
 
 <br>
 
