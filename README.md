@@ -169,8 +169,7 @@
 ![stack_diagram](https://user-images.githubusercontent.com/77655749/182791653-5512b1d1-98f8-4f2f-865d-5fb62b3553c8.png)
 
 #### 🐤 프론트 아키텍처
-![stack_diagram](https://nonnonnnon.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22777246-5875-4db8-9f00-7e9320480a32%2F_2022-08-01__5.54.24.png?table=block&id=4fcb122c-9633-4b1c-af75-abcc8d19960e&spaceId=c2f75077-a73a-40a5-8b50-17a52284f496&width=1660&userId=&cache=v2)
-
+<img width="800px" src="https://user-images.githubusercontent.com/77655749/182847661-0e15685c-9ed4-413a-9c01-afeb25696805.png">
 
 ## 🔨 기술스택
 
