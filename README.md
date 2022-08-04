@@ -22,17 +22,25 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Eunjin09" target='_blank'><img src="" width="120px" /></a></td>
+    <td align="center"><a href="" target='_blank'><img src="" width="120px" /></a></td>
+    <td align="center"><a href="" target='_blank'><img src="" width="120px" /></a></td>
+    <td align="center"><a href="" target='_blank'><img src="" width="120px" /></a></td>
   <tr>
+    <td align="center"><strong>이보람</strong></td>
     <td align="center"><strong>김은진</strong></td>
+    <td align="center"><strong>이재엽</strong></td>
   </tr>
   <tr>
-        <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Frontend</b></td>
 <!--     <td align="center"><b>Backend</b></td>
     <td align="center"><b>Design</b></td> -->
   </tr>
     <tr>
-       <td align="center"><a href="https://github.com/pg-Parunson" target='_blank'>github</a></td>
+      <td align="center"><a href="" target='_blank'>github</a></td>
+      <td align="center"><a href="" target='_blank'>github</a></td>
+      <td align="center"><a href="" target='_blank'>github</a></td>
   </tr>
 </table>
 
@@ -288,24 +296,22 @@
 </details>
 
 <details>
-<summary><strong> issue3: 이미지 업로드 속도 </strong></summary>
+<summary><strong> issue3: 프론트 관련 트러블슈팅 추가 필요 </strong></summary>
 
 #### 🙁 situation
 
-- 서비스 특성상 게시물(그룹러닝/코스추천) 등록 시 다중 사진 업로드로 고화질 이미지 업로드의 가능성이 있음
+- 
 
 #### 🛑 cause
 
-- 유저 테스트 결과 2mb가 넘거나 스마트폰 후면카메라로 찍을 시 5mb가 넘는 사진들이 업로드 될 시 업로드가 오래 걸려 유저가 등록 후 오류로 인식하는 상황 발생
+- 
 
 #### 🚥 solution
 
--  browser-image-compression 라이브러리로 1장,2장,3장 업로드 되는 각각의 상황을 고려하여 이미지를 압축한 후 서버로 전달
-  -> 데스크탑 테스트 결과 5Mb가 넘는 사진은 1Mb 이내로 용량을 압축하였고 업로드 속도를 50% 이상 줄여 업로드 속도 개선
+-  
 </details>
 
 <br></br>
 ## 🌸 More Info
 
-[🌿 프로젝트 소개 문서]  
-[💾 와이어프레임](https://www.figma.com/file/KHfXRCNHENbZ7PBS1DYT7O/%EC%9D%B4RUN%EC%A0%80RUN?node-id=0%3A1)
+팀 노션, confluencce, jira, 와이어프레임 링크 추가 예정
