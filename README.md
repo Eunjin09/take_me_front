@@ -1,34 +1,69 @@
-# 함께 뛰는 즐거움 🏃‍♀️🏃이RUN 저RUN💨💨
+# <img width="30px" src="https://user-images.githubusercontent.com/77655749/182784520-0eaf9f85-fbca-4c81-96ae-0471c3df3bc5.png"/>  Tikkeeul
+<img width="980px" src="https://user-images.githubusercontent.com/77655749/182780783-e231616d-9b8e-431c-8226-01f031cee103.png"/>
 
-![banner](https://user-images.githubusercontent.com/77655749/182779691-d67d107a-7954-45e9-87a4-5aa80d3f34bd.png)
-
-
-<br>
+<br> 
 
 ## 📌 바로가기
 
-- 사이트 바로가기 : https://www.erunjrun.com/
-- 프론트엔드 GitHub Repository : https://github.com/ErunJrun/ErunJrun_FE
-- 백엔드 GitHub Respository : https://github.com/ErunJrun/ErunJrun_BE
-- 시연 영상 보러가기: https://www.youtube.com/watch?v=j64DAMz1pDw
-<!-- - Team Notion : https://www.notion.so/RUN-RUN-ea797e61794b442fadf987d40b0fad5e -->
+- 사이트 바로가기 : https://www.tikkeeul.com/
+- 프론트엔드 GitHub Repository : https://github.com/epppo/take_me_front
+- 백엔드 GitHub Respository : https://github.com/uncounted/final-backend
+- 시연 영상 보러가기: https://www.youtube.com/watch?v=ynoW_pirnYM
+<!-- - Team Notion : https://nonnonnnon.notion.site/nonnonnnon/c84b342351d94ab08689bb4a0ea936ba -->
 
 <br>
 
 ## ⏱ 프로젝트 기간
 
-> 2022.04.22 ~ 2022.06.03 (6주)
+> 2022.06.24 ~ 2022.08.05 (6주)
 <br>
 
-## 👾 FRONTEND MEMBERS
+## 👾 TEAM MEMBERS
 
-|                    [유진열](https://github.com/jsw4215)                    |                  [김다운](https://github.com/jeongmisnu)                   |
-| :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| <img src="https://ifh.cc/g/2gnzss.png" alt="프로필 이미지" width="200px"/> | <img src="https://ifh.cc/g/SjQlsn.png" alt="프로필 이미지" width="200px"/> |
-|                                `Front-End`                                 |                                `Front-End`                                 |
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Eunjin09" target='_blank'><img src="" width="120px" /></a></td>
+  <tr>
+    <td align="center"><strong>김은진</strong></td>
+  </tr>
+  <tr>
+        <td align="center"><b>Frontend</b></td>
+<!--     <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Design</b></td> -->
+  </tr>
+    <tr>
+       <td align="center"><a href="https://github.com/pg-Parunson" target='_blank'>github</a></td>
+  </tr>
+</table>
 
-#### 유진열 🔰
+#### 🐰 이보람
+<details>
+<summary> 페이지 / 기능 </summary>
+<br>
+✅ 페이지
+<br>
+로그인 페이지, 메인 페이지, 그룹러닝 페이지, 추천코스 페이지, 그룹채팅
+<br></br>
 
+✅ 기능
+<br>
+`카카오 로그인` `네이버 로그인` `JWT토큰(Access, Refresh) 적용` `여기는 대표 기능`
+<br>
+<br>
+`출석체크` `호스트 평가` `서비스 소개 모달 슬라이드`
+<br>
+`휴대폰 인증` `회원 탈퇴 기능` `회원 정보 수정` `사진 업로드`
+<br>
+`참여 예정, 참여 완료, 내가만든 그룹러닝, 북마크 한 게시물, 내가만든 코스추천 게시글 조회` `호스트 평가 표 조회`
+<br>
+`반응형CSS 구현`
+<br>
+</details>
+
+#### 🦓 김은진
+<details>
+<summary> 페이지 / 기능 </summary>
+<br>
 ✅ 페이지
 <br>
 로그인 페이지, 메인 페이지, 그룹러닝 페이지, 추천코스 페이지, 그룹채팅
@@ -38,27 +73,6 @@
 <br>
 `카카오 로그인` `네이버 로그인` `JWT토큰(Access, Refresh) 적용`
 <br>
-``
-<br>
-`배너&게시물 슬라이드` `알림 기능` `중복 필터 검색 기능` `캘린더 기능`
-<br>
-`게시글 관련 기능(조회,등록,수정)` `카카오 지도 연동(Polyline 드로잉)` `사진 다중 업로드`
-<br>
-`카카오 공유하기 기능` `댓글 & 대댓글 기능` `러닝 신청하기` `Scroll 이벤트 기능` `북마크 기능` `평점 기능`
-<br>
-`CI/CD 세팅 및 배포환경 구축(AWS Route53, Amplify)`
-<br>
-`반응형CSS 구현`
-<br>
-
-#### 김다운
-
-✅ 페이지
-<br>
-마이 페이지, 랜딩 페이지, 출석체크 페이지, 호스트 평가 페이지
-<br></br>
-
-✅ 기능
 <br>
 `출석체크` `호스트 평가` `서비스 소개 모달 슬라이드`
 <br>
@@ -67,6 +81,34 @@
 `참여 예정, 참여 완료, 내가만든 그룹러닝, 북마크 한 게시물, 내가만든 코스추천 게시글 조회` `호스트 평가 표 조회`
 <br>
 `반응형CSS 구현`
+<br>
+</details>
+
+#### 🐨 이재엽
+<details>
+<summary> 페이지 / 기능 </summary>
+<br>
+✅ 페이지
+<br>
+로그인 페이지, 메인 페이지, 그룹러닝 페이지, 추천코스 페이지, 그룹채팅
+<br></br>
+
+✅ 기능
+<br>
+`카카오 로그인` `네이버 로그인` `JWT토큰(Access, Refresh) 적용`
+<br>
+<br>
+`출석체크` `호스트 평가` `서비스 소개 모달 슬라이드`
+<br>
+`휴대폰 인증` `회원 탈퇴 기능` `회원 정보 수정` `사진 업로드`
+<br>
+`참여 예정, 참여 완료, 내가만든 그룹러닝, 북마크 한 게시물, 내가만든 코스추천 게시글 조회` `호스트 평가 표 조회`
+<br>
+`반응형CSS 구현`
+<br>
+</details>🐨
+
+
 
 <br>
 
@@ -154,32 +196,13 @@
 |            Name             |       Appliance       |   Version    |
 | :-------------------------: | :-------------------: | :----------: |
 |           swiper            |       슬라이드        |    2.1.2     |
-|         sweetalert          |  에러 메세지 핸들링   |    2.1.2     |
 |      styled-components      |   컴포넌트 스타일링   |    5.3.5     |
 |            Redux            |       상태 관리       |    4.2.0     |
 |            axios            |       서버통신        |    0.26.1    |
 |         React-redux         |       상태관리        |    8.0.1     |
 |      React-router-dom       |        라우터         |    5.3.0     |
 |         Redux-thunk         |    리덕스 미들웨어    |    2.4.1     |
-|        Redux-actions        |       액션 관리       |    2.6.5     |
-|   Connected-react-router    |  히스토리 객체 관리   |    6.9.2     |
-|            Immer            |      불변성 유지      |    9.0.12    |
-|           History           |      페이지 이동      |    4.10.1    |
-|     express-rate-limit      | API 사용량 제한(보안) |    6.4.0     |
-|        react-geocode        | 위도,경도로 주소 얻기 |    0.2.3     |
-|       react-calendar        |         달력          |    3.7.0     |
-|         react-icons         |        아이콘         |    4.3.1     |
-|      react-responsive       |       반응형 웹       | 9.0.0-beta.6 |
-|         React-share         |     SNS 공유하기      |    4.4.0     |
-|            Dayjs            | 날짜, 시간 라이브러리 |    1.11.0    |
-|        react-scroll         |        스크롤         |    1.8.7     |
-|      react-date-range       |    달력 날짜 범위     |    1.4.0     |
-|      react-datepicker       |        캘린더         |    4.7.0     |
-| react-intersection-observer |      무한 스크롤      |    9.1.0     |
-|    react-kakao-maps-sdk     |      카카오 지도      |    1.0.6     |
-|     react-photo-collage     | 이미지 레이아웃 편집  |    1.0.9     |
-|           lodash            |      데이터 구조      |   4.17.21    |
-|           socket.io-client            |      데이터 구조      |   4.5.1    |
+|       socket.io-client      |         채팅          |    4.5.1     |
 </details>
  <br>
  
