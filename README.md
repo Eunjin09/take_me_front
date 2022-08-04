@@ -106,7 +106,7 @@
 <br>
 `반응형CSS 구현`
 <br>
-</details>🐨
+</details>
 
 
 
