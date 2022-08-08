@@ -1,7 +1,9 @@
 # <img width="30px" src="https://user-images.githubusercontent.com/77655749/182784520-0eaf9f85-fbca-4c81-96ae-0471c3df3bc5.png"/>  Tikkeeul
-<a href="https://www.tikkeeul.com/"><img width="980px" src="https://user-images.githubusercontent.com/77655749/182780783-e231616d-9b8e-431c-8226-01f031cee103.png"/></a>
+<a href="https://www.tikkeeul.com/"><img width="980px" src="https://user-images.githubusercontent.com/85613861/182782684-385fce94-b961-4e53-9d63-7bb35d3062cb.png"/></a>
 
 <br> 
+
+
 
 ## 📌 바로가기
 
@@ -22,9 +24,9 @@
 
 <table>
   <tr>
-    <td align="center"><a href="" target='_blank'><img src="" width="120px" /></a></td>
-    <td align="center"><a href="" target='_blank'><img src="" width="120px" /></a></td>
-    <td align="center"><a href="" target='_blank'><img src="" width="120px" /></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/93433413?v=4" width="120px"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/77655749?v=4" width="120px"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/105037404?v=4" width="120px"/></td>
   <tr>
     <td align="center"><strong>이보람</strong></td>
     <td align="center"><strong>김은진</strong></td>
@@ -38,85 +40,128 @@
     <td align="center"><b>Design</b></td> -->
   </tr>
     <tr>
-      <td align="center"><a href="" target='_blank'>github</a></td>
-      <td align="center"><a href="" target='_blank'>github</a></td>
-      <td align="center"><a href="" target='_blank'>github</a></td>
+      <td align="center"><a href="https://github.com/epppo" target='_blank'>github</a></td>
+      <td align="center"><a href="https://github.com/Eunjin09" target='_blank'>github</a></td>
+      <td align="center"><a href="https://github.com/yupja" target='_blank'>github</a></td>
   </tr>
 </table>
 
-#### 🐰 이보람
+#### 이보람
 <details>
 <summary> 페이지 / 기능 </summary>
 <br>
-* 📋 페이지
-  * 데일리티끌
-  * 커뮤니티
-  * 랭크
-  <br>
+📋 페이지
+<br>
   
- * 기능
-  * 태산(목표)
-    * 태산 검색/등록/수정/삭제/공유 기능
-      * 태산 검색/등록
-        * DB에 등록되어있는 아이템은 자동완성 기능을 구현해 데이터베이스에 있는 자료를 최대한 활용하여 
-                사용자가 불필요한 정보를 입력하지 않도록 간편등록 기능을 제공
-                - DB에 없는 아이템은 사용자의 자유도를 위해서 아이템등록+태산등록이 동시에 진행될 수 있도록 플렛폼 제공
-                - 사용자가 지정한 태산을 접속 후 바로 이미지로 볼수 있도록 화면 구성하여
-                동기부여, 만약 지정한 이미지가 없을 경우 아이템 카테고리 이미지를 대체하여 표현할 수 있도록 구현
-            - 태산(목표) 정보 확인
-                - 슬라이드바를 활용해서 좁은 모바일 환경에 많은 정보를 담을 수 있도록 기능 구현
-                - 도넛 그래프와 프로그래스 바를 적용해 목표에 얼마나 달성했는지 시각적으로 표현
-            - 수정/삭제/공유
-                - 태산정보 페이지에서 터치 시, 태산메뉴 수정/삭제가 가능하도록 UI 추가
-                - 메인 페이지인데일리 티끌에서 현재 진행중인 태산 목록에 대해 자랑/소통할 수 있도록  커뮤니티 게시판의 티끌자랑과 연동
-        - 티끌(아끼기항목) 검색/등록/수정/삭제/즐겨찾기 기능
-            - 자동완성검색바를 구현하여 DB에 있는 아이템을 티끌로 바로 등록할 수 있도록 구현
-            - 티끌 등록 시 즐겨찾기
+* 데일리티끌 
+* 커뮤니티
+* 랭크
+ <br>
   
- 
-<br>
-<br>
-<br>
+ ⚙ 기능
+  * 태산(목표)<br>
+  `아이템등록`,`(DB에 기등록된)태산 검색`,`태산등록`,`태산수정`,`태산삭제`,<br>
+  `태산정보확인`,`태산공유(커뮤니티연동)`<br><br>
+  * 티끌(아낀내역)<br>
+  `아이템등록`,`(DB에 기등록된)티끌 검색`,`티끌등록`,`티끌수정`,`티끌삭제`,<br>
+  `즐겨찾기등록 및 토글적용`,`태그를 통한 티끌간편등록`<br><br>
+  * 커뮤니티(티끌자랑)<br>
+  `좋아요 기능 및 토글적용`<br><br>
+  * 커뮤니티(쓸까말까)<br>
+  `진행중인 채팅목록조회`,`타이머가 적용된 채팅 룸생성`,`타이머가 적용된 실시간 채팅룸구현`,<br>
+  `실시간 찬반투표적용`,`종료된 채팅목록 조회`,`종료된 채팅 상세내역 조회`,`찬반투표 결과 조회`<br><br>
+  * 랭킹<br>
+  `랭킹 페이지통합`,`타이머가 적용된 채팅 룸생성`,`타이머가 적용된 실시간 채팅룸구현`,<br>
+  `실시간 찬반투표적용`,`종료된 채팅목록 조회`,`종료된 채팅 상세내역 조회`,`찬반투표 결과 조회`<br><br>
+  *etc
+  `태산 퍼센테이지 도넛그래프`, `찬반투표 프로그래스바`, `타이머`
+  <br><br><br>
 </details>
             
             
-#### 🦓 김은진
+#### 김은진
 <details>
 <summary> 페이지 / 기능 </summary>
 <br>
-✅ 페이지
+📋 페이지
 <br>
-채팅방, 로그인, 회원가입, 마이페이지, About페이지
-<br></br>
-
-✅ 기능
-<br><br>
-`JWT`, `소셜로그인`, `회원가입`, `채팅`, `마이페이지(즐겨찾기, 히스토리, 프로필 편집)`<br>
-<br>
-<br>
-
+  
+* 커뮤니티(채팅디테일)
+* 로그인 / 회원가입
+* 마이페이지
+* About페이지
+ <br>
+  
+ ⚙ 기능
+  * 커뮤니티(채팅디테일)<br>
+  `채팅 디테일 소켓연결`,`채팅/입장 메시지 출력`,`뒤로가기/새로고침 소켓 연결해제`, `채팅 디테일 생성`<br><br>
+  * 로그인 / 회원가입<br>
+  `JWT을 활용한 로그인`,`구글/카카오 소셜로그인`, `회원가입`,`회원탈퇴`,`아이디찾기`,`비밀번호 찾기/변경`, `로그아웃`<br><br>
+  * 마이페이지<br>
+  `즐겨찾기 수정`, `즐겨찾기 삭제`, `히스토리 조회`, `카테고리 필터`, `프로필 편집` <br><br><br>
+  *etc
+  `헤더메뉴`
+  <br><br><br>
+  
 </details>
+  
+  
+#### 이재엽
 
-#### 🐨 이재엽
 <details>
 <summary> 페이지 / 기능 </summary>
 <br>
-✅ 페이지
+📋 페이지
 <br>
-커뮤니티 리스트, 커뮤니티 상세페이지, 영수증
-<br></br>
+  
+* 커뮤니티(티끌자랑)
+* 티끌 가이드 
 
-✅ 기능
-<br>
-<br>
-<br>
-<br>
+ <br>
+  
+ ⚙ 기능
+  * 커뮤니티(티끌자랑)<br>
+  `내 태산%공유`,`게시물 목록출력`,`디테일 상세페이지`, `게시글 상세 더보기`,  
+  `댓글등록`, `댓글수정`, `댓글삭제`<br>
+  `영수증 출력`
+ <br><br><br>
 </details>
-<br>
-
-
+  
+  
+  
 ## 🤸🏻‍♂️ 티끌 미리보기
-6개 화면
+
+<table>
+  <tr>
+    <td align="center"><strong>태산</strong></td>
+    <td align="center"><strong>티끌</strong></td>
+    <td align="center"><strong>랭킹</strong></td>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183251005-23ebbfd2-5255-4658-876e-91f4c12825c1.gif" width="200px"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183251115-8af021d8-485b-4631-86ff-c4f4b8b19e4c.gif" width="200px" /></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250901-4f516c17-1b48-4e01-9ed6-62fd76490bbe.gif" width="200px"></a></td>
+  </tr>
+  <tr>
+      <td align="center"><b>커뮤니티</b></td>
+      <td align="center"><b>타이머 채팅방 만들기</b></td>
+      <td align="center"><b>실시간 채팅방</b></td>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183251006-fc81981c-4f81-44ca-95a0-ba0fe4810002.gif" width="200px"/></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250931-3b9e616e-6c94-4740-97c1-c15520245242.gif" width="200px" /></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250926-196c2bc6-ab2e-4c6c-acbe-668e0193fca8.gif" width="200px"></a></td>
+  </tr>
+  <tr>
+      <td align="center"><b>종료된 채팅방</b></td>
+      <td align="center"><b>마이페이지</b></td>
+      <td align="center"><b></b></td>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250917-c33e6bca-b13d-4a94-8a92-8c2c6c843276.png" width="200px"/></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250903-adc4e6c3-c8dd-4c8f-b32a-5220b8190234.gif" width="200px"/></a></td>
+    <td align="center"><img src?"" width="200px"></a></td>
+  </tr>
+
+</table>
+ 
 
 <br>
 
@@ -152,7 +197,7 @@
 
 #### 🎠 무한스크롤
 
-- 수정
+- 사용자가 보고 있는 페이지 일부분만 최적화하여 랜더링하기 위해 무한스크롤을 도입하였습니다. 
 
 #### 🔐 카카오/구글 소셜 로그인
 
@@ -164,7 +209,7 @@
 
 #### 🔑 JWT 인증방식
 
-- JWT를 이용한 RefreshToken/AccessToken 관리
+- JWT를 이용해 RefreshToken/AccessToken 으로 안전하게 관리합니다. 
 
 <br>
 
@@ -226,18 +271,14 @@
 
 |            Name             |       Appliance       |   Version    |      선정이유      |
 | :-------------------------: | :-------------------: | :----------: |    :----------:    |
-|           swiper            |       슬라이드        |    2.1.2     |
+|           swiper            |       슬라이드        |    2.1.2     | 슬라이드가 부드러우며 다양한 UI를 지원하고 있기에 선택했습니다.
 |      styled-components      |    컴포넌트 스타일링   |    5.3.5     | 모듈성을 위한 css 모델을 문서레벨이 아닌 컴포넌트 레벨로 추상화 한다는 점과 js와 css 사이의 상수와 함수를 쉽게 공유할 수 있고 props를 활용한 조건부 스타일링이 가능하여 사용하였다.
 |            Redux            |       상태 관리       |    4.2.0     | 예측 가능한 데이터 플로우를 그릴 수 있다는 장점이 있고 전역으로 상태관리를 할 수 있는 라이브러리로 리덕스를 선택했습니다.
-|            axios            |       서버통신        |    0.26.1    |
-|         React-redux         |       상태관리        |    8.0.1     |
+|            axios            |       서버통신        |    0.26.1    | 비동기로 HTTP통신을 하기 위해 브라우저 호환성이 높은 AXIOS를 사용했습니다.
 |      React-router-dom       |        라우터         |    5.3.0     |
-|         Redux-thunk         |    리덕스 미들웨어    |    2.4.1     |
+|         Redux-thunk         |    리덕스 미들웨어    |    2.4.1     | 리액트에서 비동기 작업을 처리할 때 사용하기 위해 선택했습니다.
 |  WebSocket, Sock.js, Stomp  |         채팅          |    4.5.1     | 채팅 기능 구현을 위해 커넥션이 유지되는 양방향 통신 기술이 필요해 사용했다. Data 전송이 빠르고 부담이 적으며, Spring에 주로 활용되는 웹소켓을 채택했다. 웹소켓을 지원하지 않는 브라우저가 있을 수 있으니 sock.js를 추가 도입하였다. 또한, 구독/발행 모델을 가지고 있어 방별로 메시징 처리가 용이한 Stomp를 도입하였다.
 |        redux-toolkit        |       상태 관리       |    ?.?.?     | action type이나 action creator를 따로 생성해주지 않아도 되고. immer가 내장되어 있어 mutable 객체를 사용할 수 있었다. redux-thunk가 내장되어 있어 비동기 처리 및 미들웨어 추가가 편리하게 사용되었다. 리덕스에 비해 설치해야하는 패키지도 적고 간결하고 정형화된 코드 패턴을 사용할 수 있어 툴킷을 사용하였다.
-  
-  
-  
   
 </details>
  <br>
