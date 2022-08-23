@@ -230,18 +230,11 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=react&logoColor=black">
+<br>
 <img src="https://img.shields.io/badge/axios-007CE2?style=for-the-badge&logo=axios&logoColor=white">
 <img src="https://img.shields.io/badge/reactrouterdom-CA4245?style=for-the-badge&logo=reactrouterdom&logoColor=white">
 <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=reactrouterdom&logoColor=white">
-</br>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/amazonamplify-orange?style=for-the-badge&logo=amazonsamplify&logoColor=white"> 
-<img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=route53&logoColor=white">
-<img src="https://img.shields.io/badge/SweetAlert2-362D59?style=for-the-badge&logo=SweetAlert2&logoColor=black">
-</br>
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" >
-<img src="https://img.shields.io/badge/Kakao Map Api-F3DC00?style=for-the-badge&logo=KaKao Map Api&logoColor=white">
 <br>
 </p>
 
@@ -249,7 +242,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/zeplin-FDBD39?style=for-the-badge&logo=zeplin&logoColor=FDBD39"/>
 </p>
 
 ### **Tools**
@@ -329,23 +321,3 @@
 - 프론트에서 disconnect() 메소드를 통해 새로고침, 뒤로가기 시 소켓 연결을 해제하기로 한다.
 </details>
 
-<details>
-<summary><strong> issue3: 프론트 관련 트러블슈팅 추가 필요 </strong></summary>
-
-#### 🙁 situation
-
-- 
-
-#### 🛑 cause
-
-- 
-
-#### 🚥 solution
-
--  
-</details>
-
-<br></br>
-## 🌸 More Info
-
-팀 노션, confluencce, jira, 와이어프레임 링크 추가 예정
